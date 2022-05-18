@@ -1,0 +1,15 @@
+h1{
+font-family:'Titillium Web', sans-serif;
+font-family:'Water Brush', cursive;
+font-size:48px;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    font-size:24px;
+}
+
+#back
+{
+    float:right;
+    background-color: black;
+}
